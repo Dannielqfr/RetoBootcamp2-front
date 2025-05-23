@@ -21,3 +21,5 @@ Cuento con **2 años de experiencia en desarrollo frontend**, de los cuales **1 
 - Integración con API externa
 - Estilo moderno con Tailwind
 - Botón para refrescar personas
+
+Info: Respecto al detalle de que parte del código pertenece a cada framework. En el caso de Angular y Tailwind (en html) se encuentran en gran parte del código y por ser frameworks, se encuentra en cada parte, estilo, clases de html (en caso de Tailwind), organización de carpetas, anotaciones, entre otros.
